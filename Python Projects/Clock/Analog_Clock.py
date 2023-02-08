@@ -4,6 +4,7 @@ import math
 
 window = ui.Tk()
 window.geometry("400x400")
+window.title('Analog Clock')
 
 
 def update_clock():
